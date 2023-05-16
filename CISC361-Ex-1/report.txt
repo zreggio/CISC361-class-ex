@@ -1,0 +1,5 @@
+
+This is the report for the single/multi threaded programs. After running them, it seemed like the multi thread
+program was slightly faster then the single, however the difference seemed to be minimal and in totality, they
+seemed to run at about the same speed.
+
